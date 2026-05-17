@@ -1,7 +1,8 @@
-##🛒 Retail Sales Forecasting Dashboard
+# 🛒 Retail Sales Forecasting Dashboard
 
-##📌 Project Overview
-This project is a **Retail Sales Forecasting Dashboard**
+## 📌 Project Overview
+
+This project is a **Retail Sales Forecasting Dashboard** developed using :contentReference[oaicite:0]{index=0}.  
 The dashboard helps analyze retail sales performance, identify business trends, monitor KPIs, and generate forecasting insights for better decision-making.
 
 ---
